@@ -5,7 +5,7 @@
 3. The 2 biggest problems with serverless computing by Matt Asay - [therepublic.com](https://www.techrepublic.com/article/the-2-biggest-problems-with-serverless-computing/)
 4. Serverless: A lesson learned. The hard way by Kevin Vandenborne - [sourcebox.be](https://sourcebox.be/blog/2017/08/07/serverless-a-lesson-learned-the-hard-way/)
 5. 30K Page Views for $0.21: A Serverless Story - [fmlnerd.com](https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/)
-
+6. Developer Experience Lessons Operating a Serverless-like Platform At Netflix - [part 1](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228) and [part 2](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228)
 
 # Practice
 1. A curated list of opensource serverless frameworks - [github.com](https://github.com/kaxap/serverless_list)
