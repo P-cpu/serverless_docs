@@ -8,6 +8,7 @@
 6. 30K Page Views for $0.21: A Serverless Story - [fmlnerd.com](https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/)
 7. Developer Experience Lessons Operating a Serverless-like Platform At Netflix - [part 1](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228) and [part 2](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228)
 8. [An excellent interview](https://github.com/snap-ci/snap-ci-blog-content/blob/master/posts/2016-05-30-serverless-architecture-aws-lambda-dynamodb-applauze.md) with [Applauze](https://www.applauze.com/) highlighting serverless architecture challenges such as lambda clogging, prod/dev shared lambdas, and added complexity.
+9. [The Comprehensive Guide to Serverless Architecture](https://www.simform.com/serverless-architecture-guide/) by Jignesh Solanki.
 
 # Practice
 1. A curated list of opensource serverless frameworks - [github.com](https://github.com/kaxap/serverless_list)
