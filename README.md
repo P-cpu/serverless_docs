@@ -10,6 +10,7 @@
 8. [An excellent interview](https://github.com/snap-ci/snap-ci-blog-content/blob/master/posts/2016-05-30-serverless-architecture-aws-lambda-dynamodb-applauze.md) with [Applauze](https://www.applauze.com/) highlighting serverless architecture challenges such as lambda clogging, prod/dev shared lambdas, and added complexity.
 9. [The Comprehensive Guide to Serverless Architecture](https://www.simform.com/serverless-architecture-guide/) by Jignesh Solanki.
 10. [HN discussion of Serverless Docker by zeit.co from 15 Aug 2018](https://news.ycombinator.com/item?id=17759516)
+11. [Serverless: 15% slower and 8x more expensive](http://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/) and its [HN discussion](https://news.ycombinator.com/item?id=21046547)
 
 # Practice
 1. A curated list of opensource serverless frameworks - [github.com](https://github.com/kaxap/serverless_list)
